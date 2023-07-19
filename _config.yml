@@ -104,4 +104,4 @@ theme: hexo-theme-yilia
 deploy:
   type: git
   repo: https://github.com/Bourbaki0404/Bourbaki0404.github.io
-  branch: master
+  branch: gh-pages
