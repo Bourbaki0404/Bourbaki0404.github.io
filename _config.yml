@@ -103,5 +103,5 @@ theme: hexo-theme-yilia
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:Bourbaki0404/Bourbaki0404.github.io.git
+  repo: https://github.com/Bourbaki0404/Bourbaki0404.github.io
   branch: master
